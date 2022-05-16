@@ -1,7 +1,4 @@
-tarjetaint = 1234567890123456
-
-#Convertir el valor de la tarjera a String
-tarjeta = str(tarjetaint)
+tarjeta = input("Ingresa numero de tarjeta: ")
 
 longitud = len(tarjeta)
 
