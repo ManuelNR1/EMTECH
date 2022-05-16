@@ -10,7 +10,7 @@
 territorio_km = 57365
 localizacion = "Noroeste"
 climas = ["Calido", "Humedo", "Seco", "Semiseco"]
-temp_media_anual_celsius = 25.45
+temp_media_anual_celsius = 22.45
 precipitacion_anual_prom_mm = 790.1
 
 poblacion_mujeres = 1532182
@@ -28,6 +28,5 @@ porcentaje_total_habitantes = habitantes_Culiacan_porcentaje + habitantes_Mazatl
 print("Porcentaje habitacional total entre Culican y Mazatlan: ", porcentaje_total_habitantes, "%")
 
 #Temperatura media anual y tipos de climas
-temperaturaString = str(temp_media_anual_celsius)
-climas.append(temperaturaString)
+climas.append(temp_media_anual_celsius)
 print(climas)
