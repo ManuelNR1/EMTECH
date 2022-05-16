@@ -1,5 +1,5 @@
-x = 27.63
+x = float(input("Ingresa un numero: "))
 
-x = int(x - 0.5) + 1
+x = int(x + 0.5)
 
 print(x)
