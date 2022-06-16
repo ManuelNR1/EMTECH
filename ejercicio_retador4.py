@@ -3,21 +3,6 @@ productos = [["Maiz grano",285.55],
              ["Tomate verde",129.0]
              ]
 
-#ventas_productos = [[122],
- #                   [89],
-  #                  [22],
-   #                 [48],
-    #                [75],
-     #               [322],
-      #              [95],
-       #             [148],
-        #            [83],
-         #           [100],
-          #          ]
-
-#total_productos_vendidos = sum(ventas_productos)
-#print(total_productos_vendidos)
-
 cajas_venta = int(input("Numero de cajas a vender: "))
 id_producto = input("ID del producto: ")
 
