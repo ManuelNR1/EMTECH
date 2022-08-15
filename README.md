@@ -1,2 +1,0 @@
-# EMTECH
-Practicas de clases
